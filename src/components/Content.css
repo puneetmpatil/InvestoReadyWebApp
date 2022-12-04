@@ -1,0 +1,10 @@
+.contentBox{
+    width:50%;
+    margin: auto;
+    margin-bottom:10vh;
+}
+.contentBox h4{
+    /* text-align:center; */
+    text-decoration: underline;
+    margin-bottom: 2vh;
+}

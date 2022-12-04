@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.faqBox {
+  width: 50%;
+  margin: auto;
+}
+
+footer {
+  display: flex;
+  margin-bottom: 8vh;
+  width: 50%;
+  margin: auto;
+}
+
+.buttonClass {
+  margin: auto;
+}
+
+.documentation {
+  width: 50%;
+  margin: auto;
+}
+
+#contact {
+  display: flex;
+  margin-top: 8vh;
+}
+
+#contact p {
+  margin-left: -65px;
+}
+
+#contact img {
+  width: 30px;
+  height:30px;
+}
+
+@media screen and (max-width: 768px) {
+  footer{
+      width:70%;
+  }
+  .cards{
+    width:100px;
+    margin-top:20px;
+  }
+}
+
+h5 {
+  text-decoration: underline;
+}
+
+.techStack label{
+  margin-right:3vw;
+}
+.techStack a {
+  color: white;
+  text-decoration: none;
+}
+.founders{
+  width:50%;
+  margin:auto;
+}
+.card-text{
+  font-size:10px;
+  text-align:center;
+}
+.cards img{
+  width:198px;
+  height:20vh;
+}

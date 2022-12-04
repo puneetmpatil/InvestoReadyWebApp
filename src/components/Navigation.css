@@ -1,0 +1,48 @@
+.alignCenter {
+    margin-top: 6px;
+}
+
+.navigation-bar {
+    padding: 2vh 0.5vw 0.5vh 0.5vw;
+    display: flex;
+    justify-content: right;
+    margin-bottom: 10vh;
+}
+
+.navigation-bar p {
+    justify-self: left;
+}
+
+.navigation-bar ul {
+    display: flex;
+}
+
+.logo {
+    display: inline-flex;
+    justify-content: left;
+}
+
+.logoImage {
+    display: inline-flex;
+    height: 30px;
+    justify-self: left;
+}
+
+.navigation-bar ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+.navigation-bar ul li a {
+    /* color:black; */
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.navigation-bar ul li a:hover {
+    font-weight: bolder;
+}
+
+.navigation-bar ul li {
+    padding: 0 20px;
+}
