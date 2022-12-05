@@ -139,7 +139,7 @@ function App() {
           <h5>Getting Started !!!</h5>
           <div>Download the app using the link given below</div>
           <div className="buttonClass text-center my-4">
-            <button type="button" className="btn btn-primary" style={{ 'margin': 'auto' }}>{/* Put app link here */}<a href="./InvestoReady.apk" download="TradeMaster" style={{ 'color': 'white', "textDecoration": "none" }}>Download App</a></button>
+            <button type="button" className="btn btn-primary" style={{ 'margin': 'auto' }}>{/* Put app link here */}<a href="./InvestoReady.apk" download="InvestoReady" style={{ 'color': 'white', "textDecoration": "none" }}>Download App</a></button>
           </div>
         </div>
         <div id="aboutUs">
