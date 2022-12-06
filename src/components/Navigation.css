@@ -46,3 +46,9 @@
 .navigation-bar ul li {
     padding: 0 20px;
 }
+@media screen and (max-width: 768px) {
+    .navigation-bar ul{
+        display: block;
+    }
+    
+}

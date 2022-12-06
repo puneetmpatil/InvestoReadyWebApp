@@ -2,7 +2,7 @@ import React from 'react'
 import './Navigation.css'
 function Navigation(props) {
     return (
-        <div className="navigation">
+        <div className="navigation topNav" id="myTopnav">
             <div>
                 <header>
                     <nav className="navigation-bar">
