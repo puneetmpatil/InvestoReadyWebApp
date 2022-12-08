@@ -6,13 +6,13 @@ This web application was made so that one can download our Android application <
 <img src="screenshots/investo.png" width="200" height="200" alt="logo">
 
 #### <u>Screenshots</u>
-<img src="screenshots/NavbarInDarkMode.jpg" height="70" alt="Navigation Bar in Dark Mode">
-<img src="screenshots/NavbarInLightMode.jpg" height="70" alt="Navigation Bar in Light Mode">
-<img src="screenshots/Home.jpg" alt="Home">
-<img src="screenshots/AboutApp.jpg" alt="About App">
-<img src="screenshots/Documentation.jpg" alt="Documentation">
-<img src="screenshots/AboutUs.jpg" alt="About Us">
-<img src="screenshots/FAQ.jpg" alt="FAQ section">
+<img src="screenshots/NavbarInDarkMode.png" height="70" alt="Navigation Bar in Dark Mode">
+<img src="screenshots/NavbarInLightMode.png" height="70" alt="Navigation Bar in Light Mode">
+<img src="screenshots/Home.png" alt="Home">
+<img src="screenshots/AboutApp.png" alt="About App">
+<img src="screenshots/Documentation.png" alt="Documentation">
+<img src="screenshots/AboutUs.png" alt="About Us">
+<img src="screenshots/FAQ.png" alt="FAQ section">
 
 #### <u>Tech / Framework Used</u>
 
