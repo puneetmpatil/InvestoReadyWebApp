@@ -3,16 +3,16 @@
 This web application was made so that one can download our Android application <strong>InvestoReady</strong>  which was made as a part of our DBMS Project.
 
 #### <u>Logo</u>
-<img src="screenshots/investo.png" width="200" height="200">
+<img src="screenshots/investo.png" width="200" height="200" alt="logo">
 
 #### <u>Screenshots</u>
-<img src="screenshots/NavbarInDarkMode.jpg" height="70">
-<img src="screenshots/NavbarInLightMode.jpg" height="70">
-<img src="screenshots/Home.jpg">
-<img src="screenshots/AboutApp.jpg">
-<img src="screenshots/Documentation.jpg">
-<img src="screenshots/AboutUs.jpg">
-<img src="screenshots/FAQ.jpg">
+<img src="screenshots/NavbarInDarkMode.jpg" height="70" alt="Navigation Bar in Dark Mode">
+<img src="screenshots/NavbarInLightMode.jpg" height="70" alt="Navigation Bar in Light Mode">
+<img src="screenshots/Home.jpg" alt="Home">
+<img src="screenshots/AboutApp.jpg" alt="About App">
+<img src="screenshots/Documentation.jpg" alt="Documentation">
+<img src="screenshots/AboutUs.jpg" alt="About Us">
+<img src="screenshots/FAQ.jpg" alt="FAQ section">
 
 #### <u>Tech / Framework Used</u>
 
